@@ -3,7 +3,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import TodoInput from './components/TodoInput';
 
-
+//showing how to use git in vscode
 function App() {
   return (
     <div className="container">
